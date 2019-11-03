@@ -1,6 +1,6 @@
-IECR_articles.csv is a dataset containing abstract and author details of all papaers in the journal "Industrial & Engineering Chemistry Research" (https://pubs.acs.org/journal/iecred). The database was constructed by scraping the IECR website. 
+IECR_articles.csv is a dataset containing abstract and author details of all papers in the journal "Industrial & Engineering Chemistry Research" (https://pubs.acs.org/journal/iecred). The database was constructed by scraping the IECR website. 
 
-Angewandte_articles.csv is a dataset containing abstract and author details of all papaers in the journal "Industrial & Engineering Chemistry Research" (https://onlinelibrary.wiley.com/journal/15213773). The database was constructed by scraping the Angewandte Chemie website. 
+Angewandte_articles.csv is a dataset containing abstract and author details of all papers in the journal "Angewandte Chemie" (https://onlinelibrary.wiley.com/journal/15213773). The database was constructed by scraping the Angewandte Chemie website. 
 
 The dataframes are saved in CSVJournalArticles.rar.
 Following are the features of both dataframe
