@@ -3,7 +3,7 @@ IECR_articles.csv is a dataset containing abstract and author details of all pap
 Angewandte_articles.csv is a dataset containing abstract and author details of all papers in the journal "Angewandte Chemie" (https://onlinelibrary.wiley.com/journal/15213773). The database was constructed by scraping the Angewandte Chemie website. 
 
 The dataframes are saved in CSVJournalArticles.rar.
-Following are the features of both dataframe
+Following are the features of both dataframes
 --------------------------------------------------------------
 
 Category:
@@ -13,7 +13,7 @@ Corresponding Author:
 The last author in the author-list. Typically this is the advisor/professor who guides the research
 
 #Authors:
-The total number of contributing authors reportes in the paper
+The total number of contributing authors reported in the paper
 
 Title:
 Title of the paper 
